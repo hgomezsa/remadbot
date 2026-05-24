@@ -1,0 +1,12 @@
+name: remadbot
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - requests>=2.31
+      - beautifulsoup4>=4.12
+      - python-dotenv>=1.0
+      - lxml>=4.9        # parser HTML más rápido para BeautifulSoup

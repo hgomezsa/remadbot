@@ -1,0 +1,101 @@
+2026-05-23 11:28:46,136 [INFO] 🤖 remadbot arrancado
+2026-05-23 11:28:46,136 [INFO]    Keywords : lego
+2026-05-23 11:28:46,136 [INFO]    Intervalo: 120s
+2026-05-23 11:28:46,136 [INFO]    DB       : sent_ids.txt
+2026-05-23 11:28:46,136 [INFO] ⏳ Comprobando catálogo de ReMAD...
+2026-05-23 11:28:47,349 [INFO]    3 artículo(s) encontrados con los filtros
+2026-05-23 11:28:47,350 [INFO]    Sin artículos nuevos disponibles
+2026-05-23 11:28:47,351 [INFO]    💤 Esperando 120s...
+2026-05-23 11:30:50,662 [INFO] 🤖 remadbot arrancado
+2026-05-23 11:30:50,662 [INFO]    Keywords : mesa
+2026-05-23 11:30:50,662 [INFO]    Intervalo: 120s
+2026-05-23 11:30:50,662 [INFO]    DB       : sent_ids.txt
+2026-05-23 11:30:50,662 [INFO] ⏳ Comprobando catálogo de ReMAD...
+2026-05-23 11:31:04,956 [INFO]    62 artículo(s) encontrados con los filtros
+2026-05-23 11:31:04,957 [INFO]    🔔 27 artículo(s) nuevo(s) para notificar
+2026-05-23 11:31:04,957 [INFO]       → [DISPONIBLE] 'Juego de mesa' en 'Puente de Vallecas'
+2026-05-23 11:31:06,808 [INFO]          ✅ Enviado
+2026-05-23 11:31:07,898 [INFO]       → [DISPONIBLE] 'Centro de mesa' en 'Villaverde'
+2026-05-23 11:31:08,652 [INFO]          ✅ Enviado
+2026-05-23 11:31:09,989 [INFO]       → [DISPONIBLE] 'Mesa musical ' en 'Villa de Vallecas'
+2026-05-23 11:31:10,697 [INFO]          ✅ Enviado
+2026-05-23 11:31:11,794 [INFO]       → [DISPONIBLE] 'Mesa de centro madera y cristal (grande)' en 'CRR Villaverde'
+2026-05-23 11:31:13,154 [INFO]          ✅ Enviado
+2026-05-23 11:31:14,170 [INFO]       → [DISPONIBLE] 'Ziggurat Family' en 'Villa de Vallecas'
+2026-05-23 11:31:14,995 [INFO]          ✅ Enviado
+2026-05-23 11:31:16,587 [INFO]       → [DISPONIBLE] 'Juegos de mesa' en 'Ciudad Lineal'
+2026-05-23 11:31:17,344 [INFO]          ✅ Enviado
+2026-05-23 11:31:19,153 [INFO]       → [DISPONIBLE] 'Mesa baja con cristal' en 'CRR San Blas'
+2026-05-23 11:31:20,111 [INFO]          ✅ Enviado
+2026-05-23 11:31:21,229 [INFO]       → [DISPONIBLE] 'Mesa de cristal ' en 'CRR San Blas'
+2026-05-23 11:31:22,049 [INFO]          ✅ Enviado
+2026-05-23 11:31:23,947 [INFO]       → [DISPONIBLE] 'Photopearls' en 'San Blas-Canillejas'
+2026-05-23 11:31:25,028 [INFO]          ✅ Enviado
+2026-05-23 11:31:26,496 [INFO]       → [DISPONIBLE] 'Guerra de letras' en 'Hortaleza'
+2026-05-23 11:31:27,775 [INFO]          ✅ Enviado
+2026-05-23 11:31:28,846 [INFO]       → [DISPONIBLE] 'Juegos de mesa y puzzle' en 'Moratalaz'
+2026-05-23 11:31:29,608 [INFO]          ✅ Enviado
+2026-05-23 11:31:31,516 [INFO]       → [DISPONIBLE] 'Mesa de centro negra cuadrada' en 'CRR Villaverde'
+2026-05-23 11:31:32,161 [INFO]          ✅ Enviado
+2026-05-23 11:31:33,516 [INFO]       → [DISPONIBLE] 'Juego de mesa' en 'Moncloa - Aravaca'
+2026-05-23 11:31:34,448 [INFO]          ✅ Enviado
+2026-05-23 11:31:35,605 [INFO]       → [DISPONIBLE] 'Centro de mesa' en 'Carabanchel'
+2026-05-23 11:31:36,341 [INFO]          ✅ Enviado
+2026-05-23 11:31:37,891 [INFO]       → [DISPONIBLE] 'Juego mesa baby tower' en 'Carabanchel'
+2026-05-23 11:31:38,957 [INFO]          ✅ Enviado
+2026-05-23 11:31:40,689 [INFO]       → [DISPONIBLE] 'Juego mesa tozudo' en 'Carabanchel'
+2026-05-23 11:31:41,784 [INFO]          ✅ Enviado
+2026-05-23 11:31:43,607 [INFO]       → [DISPONIBLE] 'Juego de mesa Qué es?' en 'Villa de Vallecas'
+2026-05-23 11:31:44,697 [INFO]          ✅ Enviado
+2026-05-23 11:31:46,107 [INFO]       → [DISPONIBLE] 'Tablero juego de mesa 2 en 1' en 'Ciudad Lineal'
+2026-05-23 11:31:47,768 [INFO]          ✅ Enviado
+2026-05-23 11:31:48,913 [INFO]       → [DISPONIBLE] 'Mesa de salón ' en 'CRR Villaverde'
+2026-05-23 11:31:49,610 [INFO]          ✅ Enviado
+2026-05-23 11:31:50,706 [INFO]       → [DISPONIBLE] 'Juego de mesa' en 'San Blas-Canillejas'
+2026-05-23 11:31:51,864 [INFO]          ✅ Enviado
+2026-05-23 11:31:53,195 [INFO]       → [DISPONIBLE] 'Juego de mesa' en 'San Blas-Canillejas'
+2026-05-23 11:31:54,319 [INFO]          ✅ Enviado
+2026-05-23 11:31:55,365 [INFO]       → [DISPONIBLE] 'Juego mesa masterman' en 'Carabanchel'
+2026-05-23 11:31:57,189 [INFO]          ✅ Enviado
+2026-05-23 11:31:58,974 [INFO]       → [DISPONIBLE] 'Juego mesa' en 'San Blas-Canillejas'
+2026-05-23 11:32:00,259 [INFO]          ✅ Enviado
+2026-05-23 11:32:02,153 [INFO]       → [DISPONIBLE] 'Juegos varios' en 'Hortaleza'
+2026-05-23 11:32:02,580 [INFO]          ✅ Enviado
+2026-05-23 11:32:04,006 [INFO]       → [DISPONIBLE] '0905 Mesa de metal' en 'Latina'
+2026-05-23 11:32:04,970 [INFO]          ✅ Enviado
+2026-05-23 11:32:05,980 [INFO]       → [DISPONIBLE] 'Mesa de centro ' en 'CRR San Blas'
+2026-05-23 11:32:06,609 [INFO]          ✅ Enviado
+2026-05-23 11:32:08,433 [INFO]       → [DISPONIBLE] 'Centro de mesa ' en 'Vicálvaro'
+2026-05-23 11:32:09,269 [INFO]          ✅ Enviado
+2026-05-23 11:32:11,089 [INFO]    💤 Esperando 120s...
+2026-05-23 12:09:24,819 [INFO] 🤖 remadbot arrancado
+2026-05-23 12:09:24,820 [INFO]    Keywords : lego, mesa, bici, bicicleta, mancuerna, pesa, pesas, cajon fitness
+2026-05-23 12:09:24,820 [INFO]    Intervalo: 30s
+2026-05-23 12:09:24,821 [INFO]    DB       : sent_ids.txt
+2026-05-23 12:09:24,821 [INFO] ⏳ Comprobando catálogo de ReMAD...
+2026-05-23 12:21:56,068 [INFO] 🤖 remadbot arrancado
+2026-05-23 12:21:56,068 [INFO]    Keywords : lego, bici, bicicleta, mancuerna, pesa, pesas, cajon fitness
+2026-05-23 12:21:56,068 [INFO]    Intervalo: 30s
+2026-05-23 12:21:56,068 [INFO]    DB       : sent_ids.txt
+2026-05-23 12:21:56,068 [INFO] ⏳ Comprobando catálogo de ReMAD...
+2026-05-23 12:22:13,187 [INFO]    30 artículo(s) encontrados con los filtros
+2026-05-23 12:22:13,189 [INFO]    🔔 7 artículo(s) nuevo(s) para notificar
+2026-05-23 12:22:13,189 [INFO]       → [DISPONIBLE] 'Transportin  niñ@s bici' en 'Carabanchel'
+2026-05-23 12:22:14,211 [INFO]          ✅ Enviado
+2026-05-23 12:22:15,455 [INFO]       → [DISPONIBLE] 'Bici de equilibrio' en 'Vicálvaro'
+2026-05-23 12:22:16,442 [INFO]          ✅ Enviado
+2026-05-23 12:22:17,450 [INFO]       → [DISPONIBLE] 'Cuadro bicicletas' en 'Villa de Vallecas'
+2026-05-23 12:22:18,566 [INFO]          ✅ Enviado
+2026-05-23 12:22:19,772 [INFO]       → [DISPONIBLE] 'Cascos de bicicleta infantil ' en 'Vicálvaro'
+2026-05-23 12:22:20,621 [INFO]          ✅ Enviado
+2026-05-23 12:22:21,721 [INFO]       → [DISPONIBLE] 'Silla para bicicleta infantil ' en 'Vicálvaro'
+2026-05-23 12:22:23,427 [INFO]          ✅ Enviado
+2026-05-23 12:22:24,848 [INFO]       → [DISPONIBLE] 'Pack de dos cascos bicicleta para niñ@s ' en 'Villa de Vallecas'
+2026-05-23 12:22:25,795 [INFO]          ✅ Enviado
+2026-05-23 12:22:27,226 [INFO]       → [DISPONIBLE] 'Bici infantil' en 'Carabanchel'
+2026-05-23 12:22:28,274 [INFO]          ✅ Enviado
+2026-05-23 12:22:29,490 [INFO]    💤 Esperando 30s...
+2026-05-23 12:22:59,491 [INFO] ⏳ Comprobando catálogo de ReMAD...
+2026-05-23 12:23:16,700 [INFO]    30 artículo(s) encontrados con los filtros
+2026-05-23 12:23:16,701 [INFO]    Sin artículos nuevos disponibles
+2026-05-23 12:23:16,702 [INFO]    💤 Esperando 30s...
