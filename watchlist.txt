@@ -1,0 +1,11 @@
+# watchlist.txt — Artículos a vigilar 24/7
+#
+# Añade una línea por artículo, en cualquiera de estos formatos:
+#   Hash directo:  zbPEHpyD7hmoDBmX3VZdW8g0HAnaMldpCchE0X5R
+#   URL completa:  https://remad.madrid.es/REMAD_FTP/#/detalleAntique/zbPEHpyD7hmoDBmX3VZdW8g0HAnaMldpCchE0X5R
+#
+# El bot comprueba estos artículos aunque estén fuera del horario de catálogo.
+# Cuando un artículo pasa de "Reservado" a "Disponible", recibirás una
+# notificación 🎯 y (si coincide con AUTORESERVE) intentará reservarlo.
+#
+# Puedes editar este archivo en caliente: se recarga en cada ciclo.
